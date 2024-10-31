@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Botif';
+  src: url('../fonts/Fontspring-DEMO-biotif-regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+  
+@font-face {
+  font-family: 'Botif-black';
+  src: url('../fonts/Fontspring-DEMO-biotif-black.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+    background-color: var(--green-7);
+    font-family: 'Botif';
+    display: grid;
+    margin: 2vh 2vw;
+}

@@ -1,0 +1,35 @@
+.main-body {
+    margin: 2vh 2vw;
+    display: flex;
+    justify-content: center;
+
+    .calendar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: var(--green-3);
+        border-radius: 2rem;
+        min-width: 60vw;
+        min-height: 40vh;
+
+        .calendar-left {
+            display: flex;
+            justify-content: center;
+            background-color: var(--green-4);
+            min-width: 40%;
+            min-height: 90%;
+            margin: 1vh 0 1vh 1vw;
+            border-radius: 2rem;
+        }
+
+        .calendar-right {
+            display: flex;
+            justify-content: center;
+            background-color: var(--green-4);
+            min-width: 55%;
+            min-height: 90%;
+            margin: 1vh 1vw 1vh 0;
+            border-radius: 2rem;
+        }
+    }
+}
