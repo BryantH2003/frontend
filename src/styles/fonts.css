@@ -1,13 +1,13 @@
 @font-face {
-    font-family: 'Botif-light';
-    src: url('../fonts/Fontspring-DEMO-biotif-light.otf');
-    font-weight: normal;
-    font-style: normal;
-  }
+  font-family: 'Botif-light';
+  src: url('../fonts/Fontspring-DEMO-biotif-light.otf');
+  font-weight: normal;
+  font-style: normal;
+}
   
-  @font-face {
-    font-family: 'Botif';
-    src: url('../fonts/Fontspring-DEMO-biotif-black.otf');
-    font-weight: normal;
-    font-style: normal;
-  }
+@font-face {
+  font-family: 'Botif';
+  src: url('../fonts/Fontspring-DEMO-biotif-black.otf');
+  font-weight: normal;
+  font-style: normal;
+}
